@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.box__1{
+    color: white;
+    margin-top: 5%;
+    margin-left: 60%;
+    position: absolute;
+    display: grid;
+    padding-top: 10px;
+  }
+  .box__1 a{
+    color: white;
+    text-decoration: none;
+  }
+  .par_1{
+    margin-top: 1rem;
+  }
+  .vernu{
+    width:10%;
+    height: 100px;
+    border-radius: 10%;
+    margin-left: 35%;
+    margin-top: 25%;
+    position: absolute;
+  }
+  .italic__091{
+    margin-top: 30%;
+    margin-left: 49%;
+    color: white;
+    position: absolute;
+  }
+
+    .box{
+        background-image: url('img/stensiya.jpg');
+        height: 80vh;
+        width: 100%;
+        background-size: cover;
+        position:absolute ;
+        margin-top: 3%;
+        }
+        .korea__111{
+          margin-top: 5%;
+          margin-left: 7%;
+          display: flex;
+          color:white;
+          position: absolute;
+          display: inline;
+        }
+        .form__13{
+        display: grid;
+        margin-top: 10%;
+        position: absolute;
+        display: flex;
+        }
+        .sad{
+          margin-top: 7%;
+          margin-left: 10%;
+          position: absolute;
+        }
+        .sad h2{
+          color: white;
+        }
+        .song{
+          color: #c9c1c1;
+          background-color: #333;
+        }
+        .sad_1{
+          margin-top: 15%;
+          margin-left: 10%;
+          position: absolute;
+        }
+        .sad_1 h2{
+          color: white;
+        }
+        .song__01{
+          color: #c9c1c1;
+          background-color: #333;
+        }
+        
+        .dudududu{
+          margin-top: 25%;
+          color: white;
+          margin-left: 15%;
+          position: absolute;
+        }
