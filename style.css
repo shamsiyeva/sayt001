@@ -3,6 +3,34 @@
     padding: 0px;
 
 }
+
+#preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #fff;
+  z-index: 99;
+}
+#status {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  /* background-image: url('status.gif'); */
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: -100px 0 0 -100px;
+}
+
+.gwang{
+  width: 200px;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+}
 .box__1{
     color: white;
     margin-top: 5%;
