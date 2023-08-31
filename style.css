@@ -27,9 +27,9 @@
 
 .gwang{
   width: 200px;
-  justify-content: center;
-  align-items: center;
-  margin-right: 20px;
+position: absolute;
+  margin-left: -200px;
+
 }
 .box__1{
     color: white;
